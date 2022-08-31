@@ -6,4 +6,4 @@ Go to the overview page of the main interface, you can see the export function, 
 ![](https://raw.githubusercontent.com/eolinker/eoapi-extensions/main/shared/assets/images/overview-en.png)
 
 Please select the file format you want to import, drag in the file and click the OK button to complete the import.
-![](https://raw.githubusercontent.com/eolinker/eoapi-extensions/main/packages/feature/import/openapi/assets/images/2022-08-23-15-56-45.png)
+![](https://raw.githubusercontent.com/scarqin/eoapi-tapdata/main/assets/2022-08-31-10-38-47.png)
